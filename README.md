@@ -1,12 +1,12 @@
 <div align="center"> 
-  <img src="team39_FinalProject/Assets.xcassets/AppIcon.appiconset/appstore.png" width="120px" height="120px">
+  <img src="team8_FinalProject/Assets.xcassets/AppIcon.appiconset/appstore.png" width="120px" height="120px">
 </div>
 
 <div align="center">
 
-**CODEBUDDY**
+**CODEMATE**
 
-CS5520 - Mobile App Development
+CS5340
 
 </div>
 <div align="center"> 
@@ -20,17 +20,21 @@ CS5520 - Mobile App Development
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ABOUT THE PROJECT -->
+
 ### 📝 ABOUT THE PROJECT
 
-> CodeBuddy is a mobile app designed to help users prepare for technical coding interviews, offering categorized flashcards covering data structures, algorithms, and system design topics.
+> CodeMate is a mobile app designed to help users prepare for technical coding interviews, offering categorized flashcards covering data structures, algorithms, and system design topics.
 >
 > Target Users:
+>
 > - CS Students preparing for internships or job interviews.
 > - Software Engineers who are brushing up on their coding and system design skills.
 > - Anyone looking to improve their understanding of coding concepts.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <!-- TECH STACK -->
+
 ### 🚀 TECH STACK
 
 Here's a brief overview of the tech stack CodeBuddy uses:
@@ -43,7 +47,9 @@ Here's a brief overview of the tech stack CodeBuddy uses:
 - Powered by Apple’s [Speech](https://developer.apple.com/documentation/speech) Framework, this app enables voice input for solving problems.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <!-- PROJECT FILES DESCRIPTION -->
+
 ### 🔎 PROJECT FILES DESCRIPTION
 
 - <b>LandingView</b> - Entry point of the app, providing an overview or onboarding experience.
@@ -57,6 +63,9 @@ Here's a brief overview of the tech stack CodeBuddy uses:
 - <b>Answer Screen</b> - Provides a space for users to write down or voice input pseudocode.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <!-- CREDITS -->
+
 ### 💜 CREDITS
-🧑‍💻 Jia-wen Wan, 👩‍💻 Minghui Xu, 👩‍💻 Ran Yan, 👩‍💻 Thanda Myo Win
+
+🧑‍💻 Yuan Tian, 👩‍💻 Xijia Zeng, 👩‍💻 Ran Yan, 👩‍💻 Tinghao Li
